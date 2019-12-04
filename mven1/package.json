@@ -31,7 +31,7 @@
     "moment": "^2.24.0",
     "moment-range": "^4.0.2",
     "mongodb": "^3.2.7",
-    "mongoose": "^5.5.14",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.1",
     "node-datetime": "^2.1.2",
     "passport": "^0.4.0",
